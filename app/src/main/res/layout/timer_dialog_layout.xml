@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Set Timer"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:id="@+id/timer_10_min"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="10 Minutes"
+        android:textSize="16sp"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/timer_15_min"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="15 Minutes"
+        android:textSize="16sp"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/timer_30_min"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="30 Minutes"
+        android:textSize="16sp"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/timer_45_min"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="45 Minutes"
+        android:textSize="16sp"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/timer_60_min"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="60 Minutes"
+        android:textSize="16sp" />
+
+</LinearLayout>
