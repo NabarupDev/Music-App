@@ -12,14 +12,23 @@ A feature-rich music player app built with Java, designed to provide a seamless 
 
 Here are some visuals that showcase the interface of the Music Player App:
 
+Here are some visuals that showcase the interface of the Music Player App:
+
 ### Home Screen
-<img src="images/home.jpg" alt="Home Screen" style="width: 10%; max-width: 600px;">
+<div align="center">
+  <img src="images/home.jpg" alt="Home Screen" style="width: 50%; max-width: 600px;">
+</div>
 
 ### Playing Screen
-<img src="images/home-playing.jpg" alt="Playing Screen" style="width: 100%; max-width: 600px;">
+<div align="center">
+  <img src="images/home-playing.jpg" alt="Playing Screen" style="width: 50%; max-width: 600px;">
+</div>
 
 ### Stop Screen
-<img src="images/stop.jpg" alt="Stop Screen" style="width: 100%; max-width: 600px;">
+<div align="center">
+  <img src="images/stop.jpg" alt="Stop Screen" style="width: 50%; max-width: 600px;">
+</div>
+
 
 ## App Demo
 
