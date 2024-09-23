@@ -16,17 +16,17 @@ Here are some visuals that showcase the interface of the Music Player App:
 
 ### Home Screen
 <div align="center">
-  <img src="images/home.jpg" alt="Home Screen" style="width: 50%; max-width: 600px;">
+  <img src="images/home.jpg" alt="Home Screen" style="width: 30%; max-width: 600px;">
 </div>
 
 ### Playing Screen
 <div align="center">
-  <img src="images/home-playing.jpg" alt="Playing Screen" style="width: 50%; max-width: 600px;">
+  <img src="images/home-playing.jpg" alt="Playing Screen" style="width: 30%; max-width: 600px;">
 </div>
 
 ### Stop Screen
 <div align="center">
-  <img src="images/stop.jpg" alt="Stop Screen" style="width: 50%; max-width: 600px;">
+  <img src="images/stop.jpg" alt="Stop Screen" style="width: 30%; max-width: 600px;">
 </div>
 
 
