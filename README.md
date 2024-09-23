@@ -32,14 +32,7 @@ Here are some visuals that showcase the interface of the Music Player App:
 
 ## App Demo
 
-For a quick preview of how the app works, watch this demo video:
-
-<div align="center">
-  <video width="50%" max-width="600px" controls>
-    <source src="images/video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+For a quick preview of how the app works, [download and watch this demo video](images/video.mp4).
 
 
 ## Installation
