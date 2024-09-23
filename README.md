@@ -13,18 +13,21 @@ A feature-rich music player app built with Java, designed to provide a seamless 
 Here are some visuals that showcase the interface of the Music Player App:
 
 ### Home Screen
-![Home](images/home.jpg)
+<img src="images/home.jpg" alt="Home Screen" style="width: 100%; max-width: 600px;">
 
 ### Playing Screen
-![Playing](images/home-playing.jpg)
+<img src="images/home-playing.jpg" alt="Playing Screen" style="width: 100%; max-width: 600px;">
 
 ### Stop Screen
-![Stop](images/stop.jpg)
+<img src="images/stop.jpg" alt="Stop Screen" style="width: 100%; max-width: 600px;">
 
 ## App Demo
 
 For a quick preview of how the app works, watch this demo video:
-![Video Demo](images/video.mp4)
+<video width="100%" max-width="600px" controls>
+  <source src="media/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Installation
 
